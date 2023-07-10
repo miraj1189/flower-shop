@@ -1,0 +1,193 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+    /* banner section style */
+}
+
+.banner-container {
+    background-color: rgba(229, 84, 115, 0.1);
+    height: 850px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+    padding: 0px 150px;
+    margin-bottom: 130px;
+
+}
+
+.btn {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border-style: none;
+    margin-top: 32px;
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 32px;
+    width: 635px;
+}
+
+.banner-img {
+    height: 800px;
+    width: 630px;
+
+
+
+}
+
+/* service section style */
+.service {
+    display: flex;
+    justify-content: space-around;
+    height: 330px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    align-items: center;
+    margin: 0px 240px;
+    margin-bottom: 130px;
+
+
+}
+
+.service-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.service-description {
+    color: rgba(39, 39, 39, 0.80);
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-top: 24px;
+}
+
+/* deal section style */
+.deal {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 630px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 130px;
+
+
+}
+
+.deal-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 580px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.off {
+    color: rgba(229, 84, 115, 1);
+}
+
+.deal-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+/* instagram section style */
+.insta-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.insta-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 48px;
+}
+
+.insta-content {
+    display: flex;
+    gap: 24px;
+    margin: 0px 240px 130px 240px;
+
+}
+
+/* subscription section style */
+
+.sub {
+    height: 450px;
+    margin: 0px 240px 130px 240px;
+    background-image: url(./images/Rectangle\ 9.png);
+
+
+}
+
+.sub-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.sub-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+.sub-content {
+
+
+
+}
+
+.email {
+    width: 600px;
+    height: 53px;
+    background: #FFF;
+    border-style: none;
+    margin-right: 16px;
+    border-radius: 8px;
+    
+    
+}
